@@ -1,7 +1,7 @@
 # Mario De Menech
 
 **Nationality:** Italian
-<!-- TODO: add professional links (LinkedIn, GitHub) if you want them on the CV -->
+**LinkedIn:** [linkedin.com/in/mario-de-menech](https://www.linkedin.com/in/mario-de-menech) · **GitHub:** [github.com/mdm13](https://github.com/mdm13)
 
 ## Profile
 
@@ -26,7 +26,7 @@ Physicist with a PhD in theoretical physics, now a software developer and quanti
 
 - Designed, developed and ran intraday trading systems on futures markets (Eurex, CME Globex) end to end, from machine learning model development to execution and risk management
 - Apply machine learning to markets; develop a best execution platform
-- CTO at Andreani and Associés: managed a quantitative long/short strategy on European stocks with monthly reallocation
+- CTO role for an investment firm client: managed a quantitative long/short strategy on European stocks with monthly reallocation
 
 
 ### Quantitative Researcher and Developer
@@ -79,7 +79,7 @@ Physicist with a PhD in theoretical physics, now a software developer and quanti
 - **NoSQL databases:** MongoDB, Google Firestore
 - **Cloud platforms:** Microsoft Azure, Google Cloud, Amazon AWS
 - **Operating systems:** Unix/Linux, Microsoft Windows and Windows Server
-- **Tools:** Git, Microsoft Visual Studio, Visual Studio Code, Matlab
+- **Tools:** Git, Microsoft Visual Studio, Visual Studio Code, Matlab, Mathematica
 
 ## Languages
 

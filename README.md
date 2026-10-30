@@ -28,4 +28,4 @@
 
 ### 🔗 More
 
-📄 [CV](cv.md) · 📚 [Publications](publications.md) (15 papers, ~1,050 citations)
+📄 [CV](cv.md) · 🧩 [Projects](projects.md) · 📚 [Publications](publications.md) (15 papers, ~1,050 citations) · 💼 [LinkedIn](https://www.linkedin.com/in/mario-de-menech)
