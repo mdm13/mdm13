@@ -13,7 +13,7 @@ Physicist with a PhD in theoretical physics, now a software developer and quanti
 **May 2010 – present**
 *Self-employed, offering software analysis and development, data science and systematic trading services*
 
-**Software development and integration (since 2014)**
+**Software development and integration (since 2015)**
 
 - Develop full stack web applications on .NET (ASP.NET Core, C#) and JavaScript/TypeScript, deployed on Windows and Linux
 - Integrate ERP (Enterprise Resource Planning) platforms with e-commerce and MES (Manufacturing Execution System) solutions
@@ -24,9 +24,9 @@ Physicist with a PhD in theoretical physics, now a software developer and quanti
 
 **Systematic trading (since 2010)**
 
-- Designed, developed and ran intraday trading systems on futures markets (Eurex, CME Globex) end to end, from machine learning model development to execution and risk management
-- Apply machine learning to markets; develop a best execution platform
-- CTO role for an investment firm client: managed a quantitative long/short strategy on European stocks with monthly reallocation
+- Designed, developed and ran intraday trading systems on futures markets (Eurex, CME Globex) end to end, from machine learning model development to execution and risk management (2010 – 2017)
+- Applied machine learning to markets and developed a best execution platform (2010 – 2017)
+- CTO role for an investment firm client (2010 – 2017): designed and ran the systematic engine behind a quantitative long/short strategy on European stocks with monthly reallocation
 
 
 ### Quantitative Researcher and Developer
